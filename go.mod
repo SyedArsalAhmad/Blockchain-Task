@@ -1,4 +1,4 @@
-module example/hello
+module github.com/SyedArsalAhmad/Lazy
 
 go 1.19
 
